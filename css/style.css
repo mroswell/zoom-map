@@ -1,0 +1,26 @@
+body {
+    /*background-color: lightgoldenrodyellow;*/
+}
+
+svg {
+    background-color: white;
+}
+
+h1, p {
+    font-family: Lato, Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 18px;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}

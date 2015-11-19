@@ -1,0 +1,163 @@
+"http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css","","http://localhost:64792/nclcv-scorecard-maps/css/bootstrap.min.css","","http://localhost:64792/nclcv-scorecard-maps/css/style.css","","http://localhost:64792/nclcv-scorecard-maps/css/leaflet.css",""
+"12 used selectors","","160 used selectors","","14 used selectors","","38 used selectors",""
+,,,,,,,
+[class^="icon-"],1,article,9,body,1,.leaflet-control-attribution,23
+[class*=" icon-"],1,aside,9,.entry,6,.leaflet-control,113
+[class^="icon-"]:before,2,details,9,h2,16,.leaflet-right .leaflet-control,121
+[class*=" icon-"]:before,2,figcaption,9,.custom-icon,23,.leaflet-top .leaflet-control,126
+a [class^="icon-"],4,figure,9,.icon-twitter,33,.leaflet-left .leaflet-control,130
+a [class*=" icon-"],4,footer,9,.icon-facebook,34,.leaflet-bottom,134
+.icon-2x,13,header,9,.icon-envelope,35,.leaflet-top,134
+[class^="icon-"],21,hgroup,9,.icon-2x,36,.leaflet-top,140
+[class*=" icon-"],21,main,9,.q0-6,38,.leaflet-right,144
+.icon-twitter:before,187,nav,9,.q1-6,39,.leaflet-bottom,148
+.icon-facebook:before,188,section,9,.q2-6,40,.leaflet-left,152
+.icon-envelope:before,241,summary,9,.q3-6,41,.leaflet-control,186
+,,audio,9,.q4-6,42,.leaflet-bar,194
+,,canvas,9,.q5-6,43,.leaflet-bar a,202
+,,video,9,,,.leaflet-bar a:hover,202
+,,html,9,,,.leaflet-bar a:active,208
+,,body,9,,,.leaflet-bar a:hover,208
+,,a:focus,9,,,.leaflet-bar a:first-child,213
+,,a:active,9,,,.leaflet-bar a:last-child,217
+,,a:hover,9,,,.leaflet-bar .leaflet-disabled,222
+,,h1,9,,,.leaflet-control-zoom-in,227
+,,b,9,,,.leaflet-control-zoom-out,227
+,,strong,9,,,.leaflet-control-attribution,268
+,,dfn,9,,,.leaflet-bar a,350
+,,hr,9,,,.leaflet-control-zoom-in,359
+,,mark,9,,,.leaflet-control-zoom-out,359
+,,code,9,,,.map-tooltip .close,359
+,,kbd,9,,,.leaflet-bar .leaflet-control-zoom-in,372
+,,pre,9,,,.leaflet-bar .leaflet-control-zoom-out,376
+,,samp,9,,,.map-tooltip .close,380
+,,pre,9,,,.map-tooltip,412
+,,q,9,,,.map-tooltip,418
+,,small,9,,,.map-tooltip,426
+,,sub,9,,,.map-tooltip .close,440
+,,sup,9,,,.leaflet-bottom .leaflet-control,713
+,,sup,9,,,.leaflet-bar a,717
+,,sub,9,,,.leaflet-control-zoom-in,752
+,,img,9,,,.leaflet-control-zoom-out,752
+,,svg:not(:root),9,,,,
+,,figure,9,,,,
+,,fieldset,9,,,,
+,,legend,9,,,,
+,,button,9,,,,
+,,input,9,,,,
+,,select,9,,,,
+,,textarea,9,,,,
+,,button,9,,,,
+,,input,9,,,,
+,,button,9,,,,
+,,select,9,,,,
+,,button,9,,,,
+,,button::-moz-focus-inner,9,,,,
+,,input::-moz-focus-inner,9,,,,
+,,textarea,9,,,,
+,,table,9,,,,
+,,*,9,,,,
+,,a,9,,,,
+,,a:visited,9,,,,
+,,a[href]:after,9,,,,
+,,a[href^="#"]:after,9,,,,
+,,pre,9,,,,
+,,blockquote,9,,,,
+,,thead,9,,,,
+,,tr,9,,,,
+,,img,9,,,,
+,,img,9,,,,
+,,p,9,,,,
+,,h2,9,,,,
+,,h3,9,,,,
+,,h2,9,,,,
+,,h3,9,,,,
+,,*,9,,,,
+,,*:before,9,,,,
+,,*:after,9,,,,
+,,html,9,,,,
+,,body,9,,,,
+,,input,9,,,,
+,,button,9,,,,
+,,select,9,,,,
+,,textarea,9,,,,
+,,button,9,,,,
+,,input,9,,,,
+,,textarea,9,,,,
+,,a,9,,,,
+,,a:hover,9,,,,
+,,a:focus,9,,,,
+,,a:focus,9,,,,
+,,img,9,,,,
+,,hr,9,,,,
+,,p,9,,,,
+,,small,9,,,,
+,,cite,9,,,,
+,,h1,9,,,,
+,,h2,9,,,,
+,,h3,9,,,,
+,,h4,9,,,,
+,,h5,9,,,,
+,,h6,9,,,,
+,,h1 small,9,,,,
+,,h1,9,,,,
+,,h2,9,,,,
+,,h3,9,,,,
+,,h4,9,,,,
+,,h5,9,,,,
+,,h6,9,,,,
+,,h1,9,,,,
+,,h2,9,,,,
+,,h3,9,,,,
+,,h4,9,,,,
+,,h5,9,,,,
+,,h6,9,,,,
+,,h1 small,9,,,,
+,,ul,9,,,,
+,,ol,9,,,,
+,,dl,9,,,,
+,,dt,9,,,,
+,,dd,9,,,,
+,,dt,9,,,,
+,,dd,9,,,,
+,,blockquote,9,,,,
+,,q:before,9,,,,
+,,q:after,9,,,,
+,,blockquote:before,9,,,,
+,,blockquote:after,9,,,,
+,,address,9,,,,
+,,code,9,,,,
+,,pre,9,,,,
+,,code,9,,,,
+,,pre,9,,,,
+,,.container,9,,,,
+,,.container:before,9,,,,
+,,.container:after,9,,,,
+,,.container:after,9,,,,
+,,.container:before,9,,,,
+,,.container:after,9,,,,
+,,.container:after,9,,,,
+,,.row,9,,,,
+,,.row:before,9,,,,
+,,.row:after,9,,,,
+,,.row:after,9,,,,
+,,.row:before,9,,,,
+,,.row:after,9,,,,
+,,.row:after,9,,,,
+,,.col-md-3,9,,,,
+,,.col-md-9,9,,,,
+,,.container,9,,,,
+,,.container,9,,,,
+,,.col-md-3,9,,,,
+,,.col-md-9,9,,,,
+,,.col-md-3,9,,,,
+,,.col-md-9,9,,,,
+,,.container,9,,,,
+,,table,9,,,,
+,,th,9,,,,
+,,fieldset,9,,,,
+,,legend,9,,,,
+,,label,9,,,,
+,,.close,9,,,,
+,,.close:hover,9,,,,
+,,.close:focus,9,,,,
