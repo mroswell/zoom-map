@@ -1,0 +1,505 @@
+latitude,longitude,indexmatch,rownum,last_name,dist,county,delegate,hb0980,track,nimsp_candidate_id,full_name,id,first_name,middle_name,district,district_padded,sort1,state,votesmart_id,party,email,all_ids/0,all_ids/1,leg_id,active,transparencydata_id,nickname,photo_url,url,country,created_at,level,nimsp_id,phone,offices/0/address,suffixes,all_ids/2,twitter
+39.59149004,-79.1173274,1A,46,Beitzel,1A,Garrett & Allegany,"Beitzel, Wendell R.",NAY,c,80704,Wendell R Beitzel,MDL000247,Wendell,R,1A,01A,1,md,66729,Republican,wendell.beitzel@house.state.md.us,MDL000247,MDL000480,MDL000247,TRUE,b89adea064134919ad82b3427a59d5a2,,http://mgaleg.maryland.gov/2015RS/images/beitzel.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=beitzel&stab=01,us,8/27/2010 22:54:00,state,8567,410-841-3435,"309 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3040",,,bietzelw
+39.67322086,-78.837856,1B,47,Buckel,1B,Allegany,"Buckel, Jason C.",NAY,c,,Jason C. Buckel,MDL000637,Jason C.,,1B,01B,1,md,,Republican,Jason.Buckel@house.state.md.us,MDL000637,,MDL000637,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/buckel01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=buckel01&stab=01,,1/14/2015 21:51:00,,,410-841-3404,"309 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.6752752,-78.29525214,1C,48,McKay,1C,Allegany & Washington,"McKay, Mike",NAY,c,,Mike McKay,MDL000628,Mike,,1C,01C,1,md,,Republican,Mike.McKay@house.state.md.us,MDL000628,,MDL000628,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/mckay01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mckay01&stab=01,,1/14/2015 21:51:00,,,410-841-3321,"322 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,lavaledryclean
+39.64646669,-77.60564061,2A,70,Wivell,2A,Washington,"Wivell, William J.",NAY,f,,William J. Wivell,MDL000719,William J.,,2A,02A,2,md,,Republican,william.wivell@house.state.md.us,MDL000719,,MDL000719,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/wivell01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=wivell01&stab=01,,3/18/2015 1:13:00,,,410-841-3447,"322 House Office Building
+ 6 Bladen St.
+ Annapolis, MD 21401",,,
+39.47891358,-77.6955461,2A,71,Parrott,2A,Washington,"Parrott, Neil",NAY,f,,Neil Parrott,MDL000648,Neil,,2A,02A,2,md,,Republican,neil.parrott@house.state.md.us,MDL000648,,MDL000648,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/parrott.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=parrott&stab=01,,1/14/2015 21:51:00,,,410-841-3636,"213 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3308",,,neilparrott
+39.64175697,-77.72571553,2B,72,Wilson,2B,Washington,"Wilson, Brett",NAY,c,,Brett Wilson,MDL000696,Brett,,2B,02B,2,md,,Republican,brett.wilson@house.state.md.us,MDL000696,,MDL000696,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/wilson01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=wilson01&stab=01,,1/14/2015 21:51:00,,,410-841-3125,"213 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.14856653,-77.26473995,3A,85,Young,3A,Frederick,"Young, Karen Lewis",YEA,f,,Karen Lewis Young,MDL000675,Karen Lewis,,3A,03A,3,md,,Democrat,Karen.Young@house.state.md.us,MDL000675,,MDL000675,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/young02.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=young02&stab=01,,1/14/2015 21:51:00,,,410-841-3436,"217 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,KarenLewisYoung
+39.4214225,-77.36897234,3A,86,Krimm,3A,Frederick,"Krimm, Carol L.",YEA,f,,Carol L. Krimm,MDL000672,Carol L.,,3A,03A,3,md,,Democrat,Carol.Krimm@house.state.md.us,MDL000672,,MDL000672,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/krimm01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=krimm01&stab=01,,1/14/2015 21:51:00,,,410-841-3472,"215 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.33313568,-77.49151884,3B,87,Folden,3B,Frederick,"Folden, William",NAY,c,,William Folden,MDL000699,William,,3B,03B,3,md,,Republican,William.Folden@house.state.md.us,MDL000699,,MDL000699,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/folden01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=folden01&stab=01,,1/14/2015 21:51:00,,,410-841-3240,"405 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3481 | 301-858-3481",,,
+39.59119981,-77.3858349,4,1,Afzali,4,Frederick & Carroll,"Afzali, Kathy",NAY,c,,Kathy Afzali,MDL000676,Kathy,,4,004,4,md,,Republican,kathy.afzali@house.state.md.us,MDL000676,,MDL000676,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/afzali.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=afzali&stab=01,,1/14/2015 21:51:00,,,410-841-3288,"326 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3184",,,Kathy_Afzali
+39.52882362,-77.52524002,4,2,Ciliberti,4,Frederick & Carroll,"Ciliberti, Barrie S.",NAY,c,,Barrie S. Ciliberti,MDL000716,Barrie S.,,4,004,4,md,,Republican,Barrie.Ciliberti@house.state.md.us,MDL000716,,MDL000716,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/ciliberti01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ciliberti01&stab=01,,2/5/2015 0:45:00,,,410-841-3080,"324 House Office Bldg.
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3028 | 301-858-3028",,,
+39.44197653,-77.19696777,4,3,Vogt,4,Frederick & Carroll,"Vogt, David E., III",NAY,c,,"David E. Vogt, III",MDL000687,David E,,4,004,4,md,,Republican,David.Vogt@house.state.md.us,MDL000687,,MDL000687,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/vogt01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=vogt01&stab=01,,1/14/2015 21:51:00,,,410-841-3118,"326 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",III,,DavidVogt_MD
+39.65285002,-77.15035376,5,4,Rose,5,Carroll,"Rose, April",NAY,f,,April Rose,MDL000718,April,,5,005,5,md,,Republican,April.Rose@house.state.md.us,MDL000718,,MDL000718,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/rose01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=rose01&stab=01,,3/18/2015 1:13:00,,,410-841-3070,"320 House Office Building
+ 6 Bladen St.
+ Annapolis, MD 21401",,,
+39.67078268,-76.93562544,5,5,Krebs,5,Carroll,"Krebs, Susan W.",NAY,f,,Susan W. Krebs,MDL000653,Susan W.,,5,005,5,md,,Republican,susan.krebs@house.state.md.us,MDL000653,,MDL000653,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/krebs.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=krebs&stab=01,,1/14/2015 21:51:00,,,410-841-3200,"324 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3349",,,
+39.51499906,-76.9919648,5,6,Shoemaker,5,Carroll,"Shoemaker, Haven",NAY,c,,Haven Shoemaker,MDL000655,Haven,,5,005,5,md,,Republican,Haven.Shoemaker@house.state.md.us,MDL000655,,MDL000655,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/shoemaker01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=shoemaker01&stab=01,,1/14/2015 21:51:00,,,410-841-3359,"320 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Commshoemaker
+39.26727177,-76.41994641,6,7,Long,6,Baltimore,"Long, Robert B.",NAY,f,,Robert B. Long,MDL000658,Robert B.,,6,006,6,md,,Republican,Bob.Long@house.state.md.us,MDL000658,MDL000706,MDL000658,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/long01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=long01&stab=01,,1/14/2015 21:51:00,,,410-841-3458,"325 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,DelegateLong
+39.28509942,-76.50748663,6,8,Metzgar,6,Baltimore,"Metzgar, Ric",NAY,f,,Ric Metzgar,MDL000685,Ric,,6,006,6,md,,Republican,Ric.Metzgar@house.state.md.us,MDL000685,,MDL000685,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/metzgar01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=metzgar01&stab=01,,1/14/2015 21:51:00,,,410-841-3332,"307 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.23125778,-76.47607452,6,9,Grammer,6,Baltimore,"Grammer, Robin L., Jr.",NAY,f,,"Robin L. Grammer, Jr.",MDL000681,Robin L,,6,006,6,md,,Republican,Robin.Grammer@house.state.md.us,MDL000681,,MDL000681,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/grammer01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=grammer01&stab=01,,1/14/2015 21:51:00,,,410-841-3298,"307 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",Jr.,,RobinGrammer
+39.54773652,-76.49800024,7,10,McDonough,7,Baltimore & Harford,"McDonough, Pat",NAY,f,92452,Patrick L McDonough,MDL000325,Patrick,L,7,007,7,md,342,Republican,pat.mcdonough@house.state.md.us,MDL000325,MDL000554,MDL000325,TRUE,5521301b9ad94481a5d1598e42175a7c,,http://mgaleg.maryland.gov/2015RS/images/mcdonough.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mcdonough&stab=01,us,8/27/2010 22:54:00,state,8,410-841-3334,"310 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3598",,,Pat_McDonough
+39.67251374,-76.55382728,7,11,Szeliga,7,Baltimore & Harford,"Szeliga, Kathy",NAY,f,,Kathy J Szeliga,MDL000412,Kathy,J,7,007,7,md,127407,Republican,kathy.szeliga@house.state.md.us,MDL000412,MDL000594,MDL000412,TRUE,7faa8a29cff1462780ea146d5a66b218,,http://mgaleg.maryland.gov/2015RS/images/szeliga.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=szeliga&stab=01,us,1/14/2011 22:24:00,state,,410-841-3698,"212 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3023",,,MarylandKathy
+39.46165941,-76.4048104,7,12,Impallaria,7,Baltimore & Harford,"Impallaria, Rick",NAY,f,92374,Richard K Impallaria,MDL000298,Richard,K,7,007,7,md,36332,Republican,rick.impallaria@house.state.md.us,MDL000298,MDL000533,MDL000298,TRUE,62591fd9d4b34ce2b5e6692c1638a04a,,http://mgaleg.maryland.gov/2015RS/images/impallaria.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=impallaria&stab=01,us,8/27/2010 22:54:00,state,5304,410-841-3289,"310 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3598",,,
+39.35335256,-76.51313599,8,13,Bromwell,8,Baltimore,"Bromwell, Eric M.",NAY,c,92204,Eric M Bromwell,MDL000255,Eric,M,8,008,8,md,36188,Democrat,eric.bromwell@house.state.md.us,MDL000255,MDL000486,MDL000255,TRUE,357bdf6184b14223974806c57353d7f3,,http://mgaleg.maryland.gov/2015RS/images/bromwell.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=bromwell&stab=01,us,8/27/2010 22:54:00,state,5285,410-841-3766,"415 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3850",,,EricBromwell
+39.37130435,-76.46063362,8,14,Miele,8,Baltimore,"Miele, Christian",NAY,f,,"Miele, Christian",MDL000673,Christian,,8,008,8,md,,Republican,Christian.Miele@house.state.md.us,MDL000673,,MDL000673,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/miele01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=miele01&stab=01,,1/14/2015 21:51:00,,,410-841-3365,"316 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Christian_Miele
+39.39934458,-76.48423316,8,15,Cluster,8,Baltimore,"Cluster, John W. E., Jr.",NAY,f,,John W.E. Cluster Jr.,MDL000392,John,W.E.,8,008,8,md,36182,Republican,john.cluster@house.state.md.us,MDL000392,MDL000495,MDL000392,TRUE,4f8de2a5ca9f4614a80d9aca1bb2e6e7,,http://mgaleg.maryland.gov/2015RS/images/cluster.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cluster&stab=01,us,1/14/2011 22:24:00,state,,410-841-3526,"308 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3098",Jr.,,
+39.30764873,-76.95405604,9A,103,Kittleman,9A,Howard & Carroll,"Kittleman, Trent",NAY,c,,Trent Kittleman,MDL000671,Trent,,9A,09A,9,md,,Republican,Trent.Kittleman@house.state.md.us,MDL000671,,MDL000671,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/kittleman02.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kittleman02&stab=01,,1/14/2015 21:51:00,,,410-841-3556,"202 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,TrentKittleman
+39.31811852,-77.10523947,9A,104,Miller,9A,Howard & Carroll,"Miller, Warren E.",NAY,c,92467,Warren E Miller,MDL000328,Warren,E,9A,09A,9,md,36261,Republican,warren.miller@house.state.md.us,MDL000328,MDL000559,MDL000328,TRUE,855ae742116c45b1a4f25bc89b6211ef,,http://mgaleg.maryland.gov/2015RS/images/miller.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=miller&stab=01,us,8/27/2010 22:54:00,state,5294,410-841-3582,"403 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3571 | 301-858-3571",,,delwarmill
+39.26415279,-76.8430186,9B,105,Flanagan,9B,Howard,"Flanagan, Robert L.",NAY,c,,Robert L. Flanagan,MDL000631,Robert L.,,9B,09B,9,md,,Republican,Bob.Flanagan@house.state.md.us,MDL000631,,MDL000631,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/flanagan01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=flanagan01&stab=01,,1/14/2015 21:51:00,,,410-841-3077,"430 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3241 | 301-858-3241",,,FlanaganForEC
+39.54635221,-76.81506996,10,16,Brooks,10,Baltimore,"Brooks, Benjamin",YEA,c,,Benjamin Brooks,MDL000625,Benjamin,,10,010,10,md,,Democrat,Benjamin.Brooks@house.state.md.us,MDL000625,,MDL000625,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/brooks01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=brooks01&stab=01,,1/14/2015 21:51:00,,,410-841-3352,"304 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,BenBrooksSr
+39.36052839,-76.82435566,10,17,Jalisi,10,Baltimore,"Jalisi, Jay",YEA,c,,Jay Jalisi,MDL000638,Jay,,10,010,10,md,,Democrat,Jay.Jalisi@house.state.md.us,MDL000638,,MDL000638,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/jalisi01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jalisi01&stab=01,,1/14/2015 21:51:00,,,410-841-3358,"304 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3100 | 301-858-3100",,,FriendsofJalisi
+39.45425964,-76.83380234,10,18,Jones,10,Baltimore,"Jones, Adrienne A.",YEA,c,92389,Adrienne A Jones,MDL000304,Adrienne,A,10,010,10,md,2029,Democrat,drienne.jones@house.state.md.us,MDL000304,MDL000538,MDL000304,TRUE,c6b2fd66b98d4364a54a5151a02b7ece,,http://mgaleg.maryland.gov/2015RS/images/jones.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jones&stab=01,us,8/27/2010 22:54:00,state,69,410-841-3391,"312 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3157",,,
+39.39636821,-76.72003779,11,19,Morhaim,11,Baltimore,"Morhaim, Dan K.",YEA,f,92476,Dan K Morhaim,MDL000332,Dan,K,11,011,11,md,6197,Democrat,dan.morhaim@house.state.md.us,MDL000332,MDL000563,MDL000332,TRUE,1f41ac0f3a1c48749d5b1a4a1870c28b,,http://mgaleg.maryland.gov/2015RS/images/morhaim.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=morhaim&stab=01,us,8/27/2010 22:54:00,state,1485,410-841-3054,"362 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3385",,,DanMorhaim
+39.43468444,-76.75822894,11,20,Stein,11,Baltimore,"Stein, Dana",YEA,f,92589,Dana M Stein,MDL000361,Dana,M,11,011,11,md,36190,Democrat,dana.stein@house.state.md.us,MDL000361,MDL000589,MDL000361,TRUE,fa8de4817d8443dd9b0ca4218940813b,,http://mgaleg.maryland.gov/2015RS/images/stein.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=stein&stab=01,us,8/27/2010 22:54:00,state,5286,410-841-3527,"251 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3373",,,
+39.43052809,-76.67085301,11,21,Hettleman,11,Baltimore,"Hettleman, Shelly",YEA,f,,Shelly Hettleman,MDL000667,Shelly,,11,011,11,md,,Democrat,Shelly.Hettleman@house.state.md.us,MDL000667,,MDL000667,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/hettleman01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hettleman01&stab=01,,1/14/2015 21:51:00,,,410-841-3833,"311 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,shellyhettleman
+39.23953725,-76.73594457,12,22,Lam,12,Baltimore & Howard,"Lam, Clarence K.",YEA,f,,Clarence K. Lam,MDL000643,Clarence K.,,12,012,12,md,,Democrat,Clarence.Lam@house.state.md.us,MDL000643,,MDL000643,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/lam01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=lam01&stab=01,,1/14/2015 21:51:00,,,410-841-3205,"214 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,ClarenceLamMD
+39.24150229,-76.67987998,12,23,Ebersole,12,Baltimore & Howard,"Ebersole, Eric",YEA,f,,Eric Ebersole,MDL000691,Eric,,12,012,12,md,,Democrat,Eric.Ebersole@house.state.md.us,MDL000691,,MDL000691,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/ebersole01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ebersole01&stab=01,,1/14/2015 21:51:00,,,410-841-3328,"305 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,ericebersole
+39.21698284,-76.79875983,12,24,Hill,12,Baltimore & Howard,"Hill, Terri L.",YEA,f,,Terri L. Hill,MDL000647,Terri L.,,12,012,12,md,,Democrat,Terri.Hill@house.state.md.us,MDL000647,,MDL000647,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/hill02.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hill02&stab=01,,1/14/2015 21:51:00,,,410-841-3378,"215 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,FriendsofTerri
+39.15053668,-76.84254829,13,25,Turner,13,Howard,"Turner, Frank S.",YEA,f,92608,Frank S. Turner,MDL000368,Frank,S,13,013,13,md,6233,Democrat,frank.turner@house.state.md.us,MDL000368,MDL000596,MDL000368,TRUE,da179e1bb0954faba2579fdf2efb718c,,http://mgaleg.maryland.gov/2015RS/images/turner.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=turner&stab=01,us,8/27/2010 22:54:00,state,1499,410-841-3246,"131 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3986 | 301-858-3986",,,
+39.1862137,-76.92670223,13,26,Atterbeary,13,Howard,"Atterbeary, Vanessa E.",YEA,f,,Vanessa E. Atterbeary,MDL000620,Vanessa E.,,13,013,13,md,,Democrat,Vanessa.Atterbeary@house.state.md.us,MDL000620,MDL000711,MDL000620,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/atterbeary01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=atterbeary01&stab=01,,1/14/2015 21:51:00,,,410-841-3471,"216 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,VAtterbeary
+39.17229103,-76.79397761,13,27,Pendergrass,13,Howard,"Pendergrass, Shane E.",YEA,f,92512,Shane E. Pendergrass,MDL000342,Shane,E,13,013,13,md,6210,Democrat,shane.pendergrass@house.state.md.us,MDL000342,MDL000575,MDL000342,TRUE,2be20b75a3a3474a865ac712c563ec1f,,http://mgaleg.maryland.gov/2015RS/images/pendergrass.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=pendergrass&stab=01,us,8/27/2010 22:54:00,state,1491,410-841-3139,"241 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3409 | 301-858-3409",,,
+39.12178042,-76.98684471,14,28,Luedtke,14,Montgomery,"Luedtke, Eric G.",YEA,f,,Eric G. Luedtke,MDL000401,Eric,G,14,014,14,md,125762,Democrat,eric.luedtke@house.state.md.us,MDL000401,MDL000549,MDL000401,TRUE,4bb31eabfd564ed5916da1f1520af842,,http://mgaleg.maryland.gov/2015RS/images/luedtke.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=luedtke&stab=01,us,1/14/2011 22:24:00,state,,410-841-3110,"222 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3053",,,EricLuedtke
+39.27340728,-77.19442338,14,29,Kaiser,14,Montgomery,"Kaiser, Anne R.",YEA,f,92393,Anne R. Kaiser,MDL000306,Anne,R,14,014,14,md,36115,Democrat,nne.kaiser@house.state.md.us,MDL000306,MDL000540,MDL000306,TRUE,e7b2a20e89414a90a110fa53f8dfd384,,http://mgaleg.maryland.gov/2015RS/images/kaiser.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kaiser&stab=01,us,8/27/2010 22:54:00,state,5277,410-841-3036,"350 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3060",,,DelegateKaiser
+39.20966882,-77.09082861,14,30,Zucker,14,Montgomery,"Zucker, Craig J.",YEA,c,,Craig Zucker,MDL000417,Craig,,14,014,14,md,36311,Democrat,craig.zucker@house.state.md.us,MDL000417,MDL000610,MDL000417,TRUE,cb3617a948db4de5b43fe0cc5f05457e,,http://mgaleg.maryland.gov/2015RS/images/zucker.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=zucker&stab=01,us,1/14/2011 22:24:00,state,,410-841-3380,"224 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3266",,,DelegateZucker
+39.23955885,-77.32976987,15,31,Miller,15,Montgomery,"Miller, Aruna",YEA,f,,Aruna Miller,MDL000404,Aruna,,15,015,15,md,127424,Democrat,runa.miller@house.state.md.us,MDL000404,MDL000558,MDL000404,TRUE,c0a2f5b335c74b71b9958a060eb26929,,http://mgaleg.maryland.gov/2015RS/images/miller a.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=miller%20a&stab=01,us,1/14/2011 22:24:00,state,,410-841-3090,"426 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3126",,,arunamiller
+39.09289929,-77.32546509,15,32,Dumais,15,Montgomery,"Dumais, Kathleen M.",YEA,f,92269,Kathleen M. Dumais,MDL000270,Kathleen,M,15,015,15,md,36454,Democrat,kathleen.dumais@house.state.md.us,MDL000270,MDL000503,MDL000270,TRUE,23830b48994541b5b58e6fe2e8dd6802,,http://mgaleg.maryland.gov/2015RS/images/dumais.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=dumais&stab=01,us,8/27/2010 22:54:00,state,5320,410-841-3052,"101 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3219",,,KathleenDumais1
+39.16437305,-77.41292448,15,33,Fraser-Hidalgo,15,Montgomery,"Fraser-Hidalgo, David",YEA,f,,David Fraser-Hidalgo,MDL000617,David,,15,015,15,md,,Democrat,david.fraser.hidalgo@house.state.md.us,MDL000617,,MDL000617,TRUE,799191c2b85d4de589c1ac8dc47cba66,,http://mgaleg.maryland.gov/2015RS/images/fraser01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=fraser01&stab=01,,10/24/2013 3:02:00,,,410-841-3186,"226 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3112",,,fraserfor15
+39.0207985,-77.12963224,16,34,Kelly,16,Montgomery,"Kelly, Ariana B.",YEA,f,,Ariana B Kelly,MDL000400,Ariana,B,16,016,16,md,127434,Democrat,riana.kelly@house.state.md.us,MDL000400,MDL000541,MDL000400,TRUE,e948bfb670da4e9d952d0e78538baa1a,,http://mgaleg.maryland.gov/2015RS/images/kelly a.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kelly%20a&stab=01,us,1/14/2011 22:24:00,state,,410-841-3642,"210 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3026",,,DelArianaKelly
+38.9833153,-77.12050559,16,35,Korman,16,Montgomery,"Korman, Marc",YEA,f,,Marc Korman,MDL000657,Marc,,16,016,16,md,,Democrat,Marc.Korman@house.state.md.us,MDL000657,,MDL000657,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/korman01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=korman01&stab=01,,1/14/2015 21:51:00,,,410-841-3649,"210 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,mkorman
+38.99611409,-77.21112409,16,36,Frick,16,Montgomery,"Frick, C. William",YEA,f,,C. William Frick,MDL000277,C. William,,16,016,16,md,101240,Democrat,bill.frick@house.state.md.us,MDL000277,MDL000510,MDL000277,TRUE,2bae3e7eaa8d42018622026d8d7332d6,,http://mgaleg.maryland.gov/2015RS/images/frick.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=frick&stab=01,us,8/27/2010 22:54:00,state,,410-841-3454,"350 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3457",,,billfrick
+39.10385473,-77.17566784,17,37,Gilchrist,17,Montgomery,"Gilchrist, Jim",YEA,f,92309,James W. Gilchrist,MDL000281,James,W,17,017,17,md,36271,Democrat,jim.gilchrist@house.state.md.us,MDL000281,MDL000514,MDL000281,TRUE,a91367456ee64b21b87e7ed05afc3ce4,,http://mgaleg.maryland.gov/2015RS/images/gilchrist.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=gilchrist&stab=01,us,8/27/2010 22:54:00,state,5296,410-841-3744,"219 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3057",,,
+39.13619383,-77.21605887,17,38,Platt,17,Montgomery,"Platt, Andrew",YEA,f,,Andrew Platt,MDL000644,Andrew,,17,017,17,md,,Democrat,Andrew.Platt@house.state.md.us,MDL000644,,MDL000644,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/platt01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=platt01&stab=01,,1/14/2015 21:51:00,,,410-841-3037,"220 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,PlattforMD
+39.07534385,-77.14308312,17,39,Barve,17,Montgomery,"Barve, Kumar P.",YEA,f,92169,Kumar P. Barve,MDL000244,Kumar,P,17,017,17,md,6104,Democrat,kumar.barve@house.state.md.us,MDL000244,MDL000477,MDL000244,TRUE,c9c64b58dc0848369c43836214c97a8e,,http://mgaleg.maryland.gov/2015RS/images/barve.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barve&stab=01,us,8/27/2010 22:54:00,state,1436,410-841-3990,"251 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3850",,,KumarBarve
+38.99809209,-77.06563334,18,40,Carr,18,Montgomery,"Carr, Alfred C., Jr.",YEA,c,,Alfred C. Carr Jr.,MDL000260,Alfred,C,18,018,18,md,66414,Democrat,fred.carr@house.state.md.us,MDL000260,MDL000491,MDL000260,TRUE,9b633074dd504a4b9fc745e4c580de83,,http://mgaleg.maryland.gov/2015RS/images/carr.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=carr&stab=01,us,8/27/2010 22:54:00,state,,410-841-3638,"222 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3053",Jr.,,alfredcarr
+39.02273275,-77.04730283,18,41,Gutierrez,18,Montgomery,"Gutierrez, Ana Sol",YEA,c,92333,Ana Sol Gutierrez,MDL000284,Ana Sol,,18,018,18,md,19375,Democrat,na.gutierrez@house.state.md.us,MDL000284,MDL000518,MDL000284,TRUE,ea0889147aaf425996e6e9d0ada5a7da,,http://mgaleg.maryland.gov/2015RS/images/gutierrez.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=gutierrez&stab=01,us,8/27/2010 22:54:00,state,3496,410-841-3181,"404 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3232",,,asolg
+39.03916729,-77.08251296,18,42,Waldstreicher,18,Montgomery,"Waldstreicher, Jeff",YEA,c,92617,Jeffrey D. Waldstreicher,MDL000373,Jeffrey,D,18,018,18,md,68561,Democrat,jeff.waldstreicher@house.state.md.us,MDL000373,MDL000603,MDL000373,TRUE,8a75204891b9483a888fdc9b9fea0c07,,http://mgaleg.maryland.gov/2015RS/images/waldstreicher.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=waldstreicher&stab=01,us,8/27/2010 22:54:00,state,8834,410-841-3130,"414 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3233",,,jwaldstreicher
+39.0876531,-77.05903736,19,43,Cullison,19,Montgomery,"Cullison, Bonnie",YEA,c,,Bonnie L. Cullison,MDL000393,Bonnie,L,19,019,19,md,125776,Democrat,bonnie.cullison@house.state.md.us,MDL000393,MDL000499,MDL000393,TRUE,7dabc4da4cc74775aefd1d5f7e517295,,http://mgaleg.maryland.gov/2015RS/images/cullison.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cullison&stab=01,us,1/14/2011 22:24:00,state,,410-841-3883,"350 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3882",,,Del_Cullison
+39.11759043,-77.1062308,19,44,Kramer,19,Montgomery,"Kramer, Benjamin F.",YEA,c,92414,Benjamin F. Kramer,MDL000311,Benjamin,F,19,019,19,md,68569,Democrat,benjamin.kramer@house.state.md.us,MDL000311,MDL000544,MDL000311,TRUE,9514291b52e744bea57b190b0202734e,,http://mgaleg.maryland.gov/2015RS/images/kramer b.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kramer%20b&stab=01,us,8/27/2010 22:54:00,state,8835,410-841-3485,"226 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3875",,,
+39.14990924,-77.13197902,19,45,Morales,19,Montgomery,"Morales, Marice",YEA,c,,Marice Morales,MDL000635,Marice,,19,019,19,md,,Democrat,Marice.Morales@house.state.md.us,MDL000635,,MDL000635,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/morales01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=morales01&stab=01,,1/14/2015 21:51:00,,,410-841-3528,"225 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Marice_Morales
+39.02591517,-76.99392035,20,49,Smith,20,Montgomery,"Smith, William C., Jr.",YEA,f,,"William C. Smith, Jr.",MDL000623,William C,,20,020,20,md,,Democrat,Will.Smith@house.state.md.us,MDL000623,MDL000707,MDL000623,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/smith01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=smith01&stab=01,,1/14/2015 21:51:00,,,410-841-3493,"224 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",Jr.,,Willcsmithjr
+38.99548695,-77.01132064,20,50,Moon,20,Montgomery,"Moon, David",YEA,c,,David Moon,MDL000645,David,,20,020,20,md,,Democrat,David.Moon@house.state.md.us,MDL000645,,MDL000645,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/moon01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=moon01&stab=01,,1/14/2015 21:51:00,,,410-841-3474,"220 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,DavidMoon2014
+39.05888296,-76.99078518,20,51,Hixson,20,Montgomery,"Hixson, Sheila E.",YEA,f,92359,Sheila E. Hixson,MDL000293,Sheila,E,20,020,20,md,6161,Democrat,sheila.hixson@house.state.md.us,MDL000293,MDL000526,MDL000293,TRUE,0f200593904c43268c7afdf3d6ee5285,,http://mgaleg.maryland.gov/2015RS/images/hixson.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hixson&stab=01,us,8/27/2010 22:54:00,state,1467,410-841-3469,"131 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,delsheilahixson
+39.09157315,-76.87420873,21,52,Pena-Melnyk,21,Prince George's & Anne Arundel,"Pena-Melnyk, Joseline A.",YEA,f,92511,Joseline A. Pena-Melnyk,MDL000341,Joseline,A,21,021,21,md,68578,Democrat,joseline.pena.melnyk@house.state.md.us,MDL000341,MDL000574,MDL000341,TRUE,b3a611ddd2e740b88c39045d4d4b43da,,http://mgaleg.maryland.gov/2015RS/images/pena.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=pena&stab=01,us,8/27/2010 22:54:00,state,8839,410-841-3502,"425 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3342 | 301-858-3342",,,penamelnykformd
+39.03655129,-76.91949533,21,53,Frush,21,Prince George's & Anne Arundel,"Frush, Barbara",YEA,c,92300,Barbara A. Frush,MDL000278,Barbara,A,21,021,21,md,6145,Democrat,barbara.frush@house.state.md.us,MDL000278,MDL000511,MDL000278,TRUE,80bb660c05734ea99fa8b395e7580153,,http://mgaleg.maryland.gov/2015RS/images/frush.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=frush&stab=01,us,8/27/2010 22:54:00,state,1457,410-841-3114,"364 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3116 | 301-858-3116",,,delegate61hotma
+39.06912145,-76.7436907,21,54,Barnes,21,Prince George's & Anne Arundel,"Barnes, Ben",YEA,f,92167,Benjamin S. Barnes,MDL000241,Benjamin,S,21,021,21,md,65935,Democrat,ben.barnes@house.state.md.us,MDL000241,MDL000476,MDL000241,TRUE,a585f9d6f8cc40b79ac25773bc79e12d,,http://mgaleg.maryland.gov/2015RS/images/barnes.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barnes&stab=01,us,8/27/2010 22:54:00,state,8448,410-841-3046,"151 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3346 | 301-858-3346",,,
+39.00382022,-76.84465068,22,55,Washington,22,Prince George's,"Washington, Alonzo T.",YEA,f,,Alonzo T. Washington,MDL000605,Alonzo,T.,22,022,22,md,,Democrat,nzo.washington@house.state.md.us,MDL000605,,MDL000605,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/washington a.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=washington%20a&stab=01,,1/7/2013 18:34:00,,,410-841-3652,"205 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3699",,,DelegateATW
+38.96131532,-76.93139899,22,56,Healey,22,Prince George's,"Healey, Anne",YEA,c,92351,Anne Healey,MDL000290,Anne,,22,022,22,md,6158,Democrat,nne.healey@house.state.md.us,MDL000290,MDL000524,MDL000290,TRUE,c6604976d58e459baf7f1edc90287737,,http://mgaleg.maryland.gov/2015RS/images/healey.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=healey&stab=01,us,8/27/2010 22:54:00,state,1464,410-841-3961,"361 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3223",,,
+38.98234657,-76.88274097,22,57,Gaines,22,Prince George's,"Gaines, Tawanna P.",YEA,f,92302,Tawanna P. Gaines,MDL000279,Tawanna,P,22,022,22,md,36524,Democrat,wanna.gaines@house.state.md.us,MDL000279,MDL000512,MDL000279,TRUE,97a70e8082b84d729ffeccf97c2b261f,,http://mgaleg.maryland.gov/2015RS/images/gaines.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=gaines&stab=01,us,8/27/2010 22:54:00,state,5331,410-841-3058,"363 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3119",,,
+39.02854018,-76.80265997,23A,106,Valentino-Smith,23A,Prince George's,"Valentino-Smith, Geraldine",YEA,c,,Geraldine Valentino-Smith,MDL000413,Geraldine,,23A,23A,23,md,75691,Democrat,geraldine.valentino.smith@house.state.md.us,MDL000413,MDL000599,MDL000413,TRUE,e6e1e111e37c416894306b032fdd1f1f,,http://mgaleg.maryland.gov/2015RS/images/valentino.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=valentino&stab=01,us,1/14/2011 22:24:00,state,,410-841-3101,"427 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3294",,,
+38.79988414,-76.7520575,23B,107,Holmes,23B,Prince George's,"Holmes, Marvin E., Jr.",YEA,c,80716,Marvin E. Holmes Jr.,MDL000294,Marvin,E,23B,23B,23,md,19380,Democrat,rvin.holmes@house.state.md.us,MDL000294,MDL000528,MDL000294,TRUE,435d7e17a3ca49e1974833fedfa2c8a3,,http://www.msa.md.gov/msa/mdmanual/06hse/images/1198-1-216c.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=holmes&stab=01,us,8/27/2010 22:54:00,state,3498,410-841-3310,"313 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",Jr.,,MarvinEHolmesJr
+38.91652518,-76.72825743,23B,108,Vallario,23B,Prince George's,"Vallario, Joseph F., Jr.",YEA,c,,"Joseph F. Vallario, Jr.",MDL000659,Joseph F,,23B,23B,23,md,,Democrat,joseph.vallario@house.state.md.us,MDL000659,,MDL000659,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/vallario.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=vallario&stab=01,,1/14/2015 21:51:00,,,410-841-3488,"101 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3495",Jr.,,
+38.96366669,-76.79509866,24,58,Howard,24,Prince George's,"Howard, Carolyn J. B.",YEA,f,92369,Carolyn J.B. Howard,MDL000295,Carolyn,J.B.,24,024,24,md,6163,Democrat,carolyn.howard@house.state.md.us,MDL000295,MDL000530,MDL000295,TRUE,e8b34c0d3a7b4c769bb2a28808becc68,,http://mgaleg.maryland.gov/2015RS/images/howard.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=howard&stab=01,us,8/27/2010 22:54:00,state,1468,410-841-3919,"301 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,carolynjbhoward
+38.87677036,-76.90959336,24,59,Vaughn,24,Prince George's,"Vaughn, Michael L.",YEA,f,92615,Michael L Vaughn,MDL000372,Michael,L,24,024,24,md,36240,Democrat,michael.vaughn@house.state.md.us,MDL000372,MDL000601,MDL000372,TRUE,be975ee5c58047a58dc6c518a299fcb5,,http://mgaleg.maryland.gov/2015RS/images/vaughn.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=vaughn&stab=01,us,8/27/2010 22:54:00,state,5290,410-841-3691,"423 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3055",,,
+38.91579978,-76.83628181,24,60,Barron,24,Prince George's,"Barron, Erek L.",YEA,f,,"Barron, Erek L.",MDL000668,Erek L.,,24,024,24,md,,Democrat,Erek.Barron@house.state.md.us,MDL000668,MDL000705,MDL000668,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/barron01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barron01&stab=01,,1/14/2015 21:51:00,,,410-841-3692,"207 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,erekbarron
+38.85613652,-76.79546288,25,61,Davis,25,Prince George's,"Davis, Dereck E.",YEA,f,92255,Dereck E Davis,MDL000267,Dereck,E,25,025,25,md,6128,Democrat,dereck.davis@house.state.md.us,MDL000267,MDL000500,MDL000267,TRUE,1040b38f972d4c2093136f1b019e806a,,http://mgaleg.maryland.gov/2015RS/images/davis d.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=davis%20d&stab=01,us,8/27/2010 22:54:00,state,1449,410-841-3519,"231 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3558",,,
+38.86382442,-76.85866026,25,62,Angel,25,Prince George's,"Angel, Angela",YEA,f,,"Angel, Angela",MDL000663,Angela,,25,025,25,md,,Democrat,Angela.Angel@house.state.md.us,MDL000663,,MDL000663,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/angel01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=angel01&stab=01,,1/14/2015 21:51:00,,,410-841-3707,"216 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Angel4Dist25
+38.79919438,-76.88094202,25,63,Barnes,25,Prince George's,"Barnes, Darryl",YEA,f,,"Barnes, Darryl",MDL000664,Darryl,,25,025,25,md,,Democrat,Darryl.Barnes@house.state.md.us,MDL000664,,MDL000664,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/barnes02.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barnes02&stab=01,,1/14/2015 21:51:00,,,410-841-3557,"206 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+38.66714107,-77.04500733,26,64,Walker,26,Prince George's,"Walker, Jay",YEA,f,92618,Jay Walker,MDL000374,Jay,,26,026,26,md,68581,Democrat,jay.walker@house.state.md.us,MDL000374,MDL000604,MDL000374,TRUE,9488335e0c6b431ba7e255e4258159a4,,http://mgaleg.maryland.gov/2015RS/images/walker.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=walker&stab=01,us,8/27/2010 22:54:00,state,8840,410-841-3581,"207 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3078",,,
+38.79738511,-76.98761257,26,65,Valderrama,26,Prince George's,"Valderrama, Kriselda",YEA,c,92611,Kriselda Valderrama,MDL000370,Kriselda,,26,026,26,md,67683,Democrat,kris.valderrama@house.state.md.us,MDL000370,MDL000598,MDL000370,TRUE,ec943537c14a4242b55adda77f16ae6d,,http://mgaleg.maryland.gov/2015RS/images/valderrama.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=valderrama&stab=01,us,8/27/2010 22:54:00,state,8723,410-841-3210,"205 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3525",,,
+38.73374372,-76.98287373,26,66,Knotts,26,Prince George's,"Knotts, Tony",YEA,f,,Tony Knotts,MDL000619,Tony,,26,026,26,md,,Democrat,Tony.Knotts@house.state.md.us,MDL000619,,MDL000619,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/knotts01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=knotts01&stab=01,,1/14/2015 21:51:00,,,410-841-3212,"204 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,VoteKnotts
+38.65820074,-76.83122938,27A,109,Proctor,27A,Charles & Prince George's,"Proctor, James E., Jr.",absent,c,92525,James E. Proctor Jr.,MDL000343,James,E,27A,27A,27,md,6217,Democrat,james.proctor@house.state.md.us,MDL000343,MDL000576,MDL000343,TRUE,808130be1b3b441dbbb1ff919b779489,,http://mgaleg.maryland.gov/2015RS/images/proctor.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=proctor&stab=01,us,8/27/2010 22:54:00,state,1493,410-841-3083,"121 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3459",Jr.,,
+38.64489469,-76.6237898,27B,110,Jackson,27B,Calvert & Prince George's,"Jackson, Michael A.",Not voting,c,,Michael A. Jackson,MDL000621,Michael A.,,27B,27B,27,md,,Democrat,Michael.Jackson@house.state.md.us,MDL000621,,MDL000621,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/jackson01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jackson01&stab=01,,1/14/2015 21:51:00,,,410-841-3103,"204 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Michaelfor27B
+38.51543893,-76.56704652,27C,111,Fisher,27C,Calvert,"Fisher, Mark N.",NAY,c,,Mark N. Fisher,MDL000654,Mark N.,,27C,27C,27,md,,Republican,rk.fisher@house.state.md.us,MDL000654,,MDL000654,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/fisher.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=fisher&stab=01,,1/14/2015 21:51:00,,,410-841-3231,"202 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3335",,,fisher4maryland
+38.56519215,-77.0650934,28,67,Wilson,28,Charles,"Wilson, C. T.",Not voting,f,,C. T. Wilson,MDL000416,C. T.,,28,028,28,md,125914,Democrat,ct.wilson@house.state.md.us,MDL000416,MDL000608,MDL000416,TRUE,d629b73895494bd4920f918d3f36202f,,http://mgaleg.maryland.gov/2015RS/images/wilson.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=wilson&stab=01,us,1/14/2011 22:24:00,state,,410-841-3325,"422 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3367 | 301-858-3367",,,votectwilson
+38.50307863,-76.89771164,28,68,Jameson,28,Charles,"Jameson, Sally",YEA,f,92384,Sally Y. Jameson,MDL000301,Sally,Y,28,028,28,md,36479,Democrat,sally.jameson@house.state.md.us,MDL000301,MDL000537,MDL000301,TRUE,0f9d8a1e7cff45c192bb4522d09088cf,,http://mgaleg.maryland.gov/2015RS/images/jameson.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jameson&stab=01,us,8/27/2010 22:54:00,state,5325,410-841-3337,"231 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3277",,,SallyYJameson
+38.46902384,-77.19749926,28,69,Patterson,28,Charles,"Patterson, Edith J.",YEA,f,,Edith J. Patterson,MDL000689,Edith J.,,28,028,28,md,,Democrat,Edith.Patterson@house.state.md.us,MDL000689,,MDL000689,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/patterson02.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=patterson02&stab=01,,1/14/2015 21:51:00,,,410-841-3247,"221 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,EdithPatterson
+38.38635781,-76.71393252,29A,112,Morgan,29A,St. Mary's,"Morgan, Matthew",NAY,c,,"Morgan, Matthew",MDL000674,Matthew,,29A,29A,29,md,,Republican,Matt.Morgan@house.state.md.us,MDL000674,,MDL000674,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/morgan02.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=morgan02&stab=01,,1/14/2015 21:51:00,,,410-841-3170,"317 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,MattMorgan29A
+38.23512613,-76.44202485,29B,113,Rey,29B,St. Mary's,"Rey, Deborah C.",NAY,c,,Deborah C. Rey,MDL000693,Deborah C.,,29B,29B,29,md,,Republican,Deborah.Rey@house.state.md.us,MDL000693,,MDL000693,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/rey01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=rey01&stab=01,,1/14/2015 21:51:00,,,410-841-3227,"319 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+38.28571062,-76.58049415,29C,114,O'Donnell,29C,Calvert & St. Mary's,"O'Donnell, Anthony J.",NAY,c,92498,Anthony J. O'Donnell,MDL000339,Anthony,J,29C,29C,29,md,6204,Republican,nthony.odonnell@house.state.md.us,MDL000339,MDL000570,MDL000339,TRUE,2f469220066d4839b4854dc351a7893a,,http://mgaleg.maryland.gov/2015RS/images/odonnell.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=odonnell&stab=01,us,8/27/2010 22:54:00,state,1488,410-841-3314,"201 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3534 | 301-858-3534",,,
+38.95629545,-76.50339461,30A,115,McMillan,30A,Anne Arundel,"McMillan, Herb",NAY,f,,Herb McMillan,MDL000642,Herb,,30A,30A,30,md,,Republican,herb.mcmillan@house.state.md.us,MDL000642,,MDL000642,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/mcmillan.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mcmillan&stab=01,,1/14/2015 21:51:00,,,410-841-3211,"164 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841--3386",,,herbmcmillan
+38.98311433,-76.54446169,30A,116,Busch,30A,Anne Arundel,"Busch, Michael E.",,f,,Michael E. Busch,MDL000636,Michael E.,,30A,30A,30,md,,Democrat,chael.busch@house.state.md.us,MDL000636,,MDL000636,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/busch.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=busch&stab=01,,1/14/2015 21:51:00,,,410-841-3800,"H-101 State House
+ State Circle
+ Annapolis, MD 21401
+ Fax: 410-841-3880 | 301-858-3880",,,SpeakerBusch
+38.83105071,-76.59420951,30B,117,Howard,30B,Anne Arundel,"Howard, Seth A.",NAY,c,,Seth A. Howard,MDL000630,Seth A.,,30B,30B,30,md,,Republican,Seth.Howard@house.state.md.us,MDL000630,MDL000713,MDL000630,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/howard01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=howard01&stab=01,,1/14/2015 21:51:00,,,410-841-3439,"159 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,sethfordelegate
+39.20699191,-76.60972645,31A,118,Carey,31A,Anne Arundel,"Carey, Ned",NAY,c,,Ned Carey,MDL000665,Ned,,31A,31A,31,md,,Democrat,Ned.Carey@house.state.md.us,MDL000665,,MDL000665,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/carey01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=carey01&stab=01,,1/14/2015 21:51:00,,,410-841-3047,"161 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.162452,-76.56411833,31B,119,Simonaire,31B,Anne Arundel,"Simonaire, Meagan C.",NAY,f,,Meagan C. Simonaire,MDL000690,Meagan C.,,31B,31B,31,md,,Republican,Meagan.Simonaire@house.state.md.us,MDL000690,,MDL000690,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/simonaire01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=simonaire01&stab=01,,1/14/2015 21:51:00,,,410-841-3206,"156 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.12212993,-76.52311686,31B,120,Kipke,31B,Anne Arundel,"Kipke, Nicholaus R.",NAY,f,,Nicholaus R. Kipke,MDL000626,Nicholaus R.,,31B,31B,31,md,,Republican,nicholaus.kipke@house.state.md.us,MDL000626,,MDL000626,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/kipke.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=kipke&stab=01,,1/14/2015 21:51:00,,,410-841-3421,"212 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3553 | 301-858-3553",,,Kipke
+39.12497768,-76.74540509,32,73,Beidle,32,Anne Arundel,"Beidle, Pamela",NAY,c,92174,Pamela G. Beidle,MDL000246,Pamela,G,32,032,32,md,65432,Democrat,pamela.beidle@house.state.md.us,MDL000246,MDL000479,MDL000246,TRUE,e47c56560ff3443396073c89631cce45,,http://mgaleg.maryland.gov/2015RS/images/beidle.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=beidle&stab=01,us,8/27/2010 22:54:00,state,8371,410-841-3370,"165 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3347 | 301-858-3347",,,beidlep1
+39.15986546,-76.700588,32,74,Chang,32,Anne Arundel,"Chang, Mark S.",NAY,c,,Mark S. Chang,MDL000634,Mark S.,,32,032,32,md,,Democrat,Mark.Chang@house.state.md.us,MDL000634,,MDL000634,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/chang01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=chang01&stab=01,,1/14/2015 21:51:00,,,410-841-3511,"160 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,marksoochang
+39.18649997,-76.67281996,32,75,Sophocleus,32,Anne Arundel,"Sophocleus, Theodore",NAY,c,92581,Theodore J. Sophocleus,MDL000359,Theodore,J,32,032,32,md,19136,Democrat,ted.sophocleus@house.state.md.us,MDL000359,MDL000588,MDL000359,TRUE,67ab78a6186e4c6190cda38ca6ebe375,,http://mgaleg.maryland.gov/2015RS/images/sophocleus.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=sophocleus&stab=01,us,8/27/2010 22:54:00,state,3479,410-841-3372,"162 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3437 | 301-858-3437",,,
+39.01902953,-76.69267777,33,76,Saab,33,Anne Arundel,"Saab, Sid",NAY,f,,Sid Saab,MDL000700,Sid,,33,033,33,md,,Republican,Sid.Saab@house.state.md.us,MDL000700,,MDL000700,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/saab01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=saab01&stab=01,,1/14/2015 21:51:00,,,410-841-3551,"157 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,SidSaab
+39.06537565,-76.59216045,33,77,Malone,33,Anne Arundel,"Malone, Michael E.",NAY,f,,Michael E. Malone,MDL000720,Michael E.,,33,033,33,md,,Republican,Michael.Malone@house.state.md.us,MDL000720,,MDL000720,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/malone01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=malone01&stab=01,,3/18/2015 1:13:00,,,410-841-3510,"154 House Office Bldg.
+ 6 Bladen St.
+ Annapolis, MD 21401",,,
+38.94209532,-76.64172908,33,78,McConkey,33,Anne Arundel,"McConkey, Tony",NAY,f,,Tony McConkey,MDL000677,Tony,,33,033,33,md,,Republican,ny.mcconkey@house.state.md.us,MDL000677,,MDL000677,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/mcconkey.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mcconkey&stab=01,,1/14/2015 21:51:00,,,410-841-3406,"163 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3209 | 301-858-3209",,,McConkey
+39.40831998,-76.25453253,34A,121,Glass,34A,Harford,"Glass, Glen",NAY,c,,Glen Glass,MDL000395,Glen,,34A,34A,34,md,36503,Republican,glen.glass@house.state.md.us,MDL000395,MDL000515,MDL000395,TRUE,b665818c63064b6a92c064f814ebe6ba,,http://www.msa.md.gov/msa/mdmanual/06hse/images/1198-1-4901b.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=glass&stab=01,us,1/14/2011 22:24:00,state,,410-841-3280,"325 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3754",,,
+39.50298579,-76.15069961,34A,122,Lisanti,34A,Harford,"Lisanti, Mary Ann",NAY,c,,Mary Ann Lisanti,MDL000703,Mary Ann,,34A,34A,34,md,,Democrat,MaryAnn.Lisanti@house.state.md.us,MDL000703,,MDL000703,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/lisanti01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=lisanti01&stab=01,,1/14/2015 21:51:00,,,410-841-3331,"217 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,maryannlisanti
+39.50529697,-76.31516205,34B,123,McComas,34B,Harford,"McComas, Susan K.",NAY,c,,Susan K. McComas,MDL000641,Susan K.,,34B,34B,34,md,,Republican,susan.mccomas@house.state.md.us,MDL000641,,MDL000641,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/mccomas.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mccomas&stab=01,,1/14/2015 21:51:00,,,410-841-3272,"319 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3202 | 301-858-3202",,,
+39.68964507,-75.85519205,35A,124,Hornberger,35A,Cecil,"Hornberger, Kevin B.",YEA,c,,Kevin Bailey Hornberger,MDL000692,Kevin Bailey,,35A,35A,35,md,,Republican,Kevin.Hornberger@house.state.md.us,MDL000692,,MDL000692,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/hornberger01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hornberger01&stab=01,,1/14/2015 21:51:00,,,410-841-3284,"410 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.61661069,-76.2216995,35B,125,Cassilly,35B,Cecil & Harford,"Cassilly, Andrew",NAY,c,,Andrew Cassilly,MDL000622,Andrew,,35B,35B,35,md,,Republican,Andrew.Cassilly@house.state.md.us,MDL000622,,MDL000622,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/cassilly01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=cassilly01&stab=01,,1/14/2015 21:51:00,,,410-841-3444,"316 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.63792145,-76.36407978,35B,126,Reilly,35B,Cecil & Harford,"Reilly, Teresa E.",NAY,c,,Teresa E. Reilly,MDL000650,Teresa E.,,35B,35B,35,md,,Republican,Teresa.Reilly@house.state.md.us,MDL000650,MDL000714,MDL000650,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/reilly01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=reilly01&stab=01,,1/14/2015 21:51:00,,,410-841-3278,"203 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3190 | 301-858-3190",,,
+38.88924243,-75.83195459,36,79,Arentz,36,"Kent, Queen Anne's, Cecil, & Caroline","Arentz, Steven J.",NAY,c,,Steven J. Arentz,MDL000618,Steven J.,,36,036,36,md,,Republican,steven.arentz@house.state.md.us,MDL000618,,MDL000618,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/arentz01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=arentz01&stab=01,,1/7/2014 0:28:00,,,410-841-3543,"308 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3098",,,Steve_Arentz
+39.24089805,-76.1282931,36,80,Ghrist,36,"Kent, Queen Anne's, Cecil, & Caroline","Ghrist, Jefferson L.",NAY,c,,Jefferson L. Ghrist,MDL000686,Jefferson L.,,36,036,36,md,,Republican,Jeff.Ghrist@house.state.md.us,MDL000686,MDL000708,MDL000686,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/ghrist01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=ghrist01&stab=01,,1/14/2015 21:51:00,,,410-841-3555,"410 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,jeffghrist
+39.1156664,-75.95203788,36,81,Jacobs,36,"Kent, Queen Anne's, Cecil, & Caroline","Jacobs, Jay A.",NAY,c,,Jay A. Jacobs,MDL000399,Jay,A,36,036,36,md,66537,Republican,jay.jacobs@house.state.md.us,MDL000399,MDL000535,MDL000399,TRUE,cce0fa85a79245b094402aa69b2f1002,,http://mgaleg.maryland.gov/2015RS/images/jacobs j.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=jacobs%20j&stab=01,us,1/14/2011 22:24:00,state,,410-841-3449,"321 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3093",,,
+38.54230683,-75.87352504,37A,127,Sample-Hughes,37A,Dorchester & Wicomico,"Sample-Hughes, Sheree",YEA,c,,Sheree Sample-Hughes,MDL000683,Sheree,,37A,37A,37,md,,Democrat,Sheree.Sample.Hughes@house.state.md.us,MDL000683,,MDL000683,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/sample01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=sample01&stab=01,,1/14/2015 21:51:00,,,410-841-3427,"221 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+38.44018019,-76.10379636,37B,128,Mautz,37B,"Caroline, Dorchester, Talbot, & Wicomico","Mautz, Johnny",NAY,f,,Johnny Mautz,MDL000660,Johnny,,37B,37B,37,md,,Republican,Johnny.Mautz@house.state.md.us,MDL000660,,MDL000660,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/mautz01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mautz01&stab=01,,1/14/2015 21:51:00,,,410-841-3429,"323 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Mautz4Delegate
+38.75797085,-76.07257724,37B,129,Adams,37B,"Caroline, Dorchester, Talbot, & Wicomico","Adams, Christopher T.",NAY,f,,Christopher T. Adams,MDL000697,Christopher T.,,37B,37B,37,md,,Republican,Christopher.Adams@house.state.md.us,MDL000697,,MDL000697,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/adams01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=adams01&stab=01,,1/14/2015 21:51:00,,,410-841-3343,"323 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,Adams4Maryland
+38.12969687,-75.57365002,38A,130,Otto,38A,Somerset & Worcester,"Otto, Charles J.",NAY,c,,Charles J. Otto,MDL000406,Charles,J,38A,38A,38,md,127524,Republican,charles.otto@house.state.md.us,MDL000406,MDL000572,MDL000406,TRUE,a79ea577baba4f748206b7dc186987db,,http://mgaleg.maryland.gov/2015RS/images/otto.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=otto&stab=01,us,1/14/2011 22:24:00,state,,410-841-3433,"321 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3463",,,
+38.4079052,-75.54442159,38B,131,Anderton,38B,Wicomico,"Anderton, Carl, Jr.",NAY,c,,"Carl  Anderton, Jr.",MDL000684,Carl,,38B,38B,38,md,,Republican,Carl.Anderton@house.state.md.us,MDL000684,,MDL000684,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/anderton01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=anderton01&stab=01,,1/14/2015 21:51:00,,,410-841-3431,"317 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",Jr.,,carlandertonjr
+38.36927983,-75.29708607,38C,132,Carozza,38C,Wicomico & Worcester,"Carozza, Mary Beth",NAY,c,,Mary Beth Carozza,MDL000695,Mary Beth,,38C,38C,38,md,,Republican,MaryBeth.Carozza@house.state.md.us,MDL000695,,MDL000695,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/carozza01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=carozza01&stab=01,,1/14/2015 21:51:00,,,410-841-3356,"203 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,DelMBCarozza
+39.17724565,-77.19241367,39,82,Barkley,39,Montgomery,"Barkley, Charles",NAY,c,92166,Charles E. Barkley,MDL000240,Charles,E,39,039,39,md,19121,Democrat,charles.barkley@house.state.md.us,MDL000240,MDL000475,MDL000240,TRUE,576cb3843b7942239330682b4463e469,,http://mgaleg.maryland.gov/2015RS/images/barkley.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=barkley&stab=01,us,8/27/2010 22:54:00,state,3477,410-841-3001,"223 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3009",,,
+39.21221238,-77.24068267,39,83,Robinson,39,Montgomery,"Robinson, Shane",YEA,f,,Shane D. Robinson,MDL000409,Shane,,39,039,39,md,125994,Democrat,shane.robinson@house.state.md.us,MDL000409,MDL000580,MDL000409,TRUE,28df242b3c564c09a70e6f6b889edb1e,,http://mgaleg.maryland.gov/2015RS/images/robinson s.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=robinson%20s&stab=01,us,1/14/2011 22:24:00,state,,410-841-3021,"223 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3375",,,DelSRobinson
+39.14856653,-77.26473995,39,84,Reznik,39,Montgomery,"Reznik, Kirill",YEA,f,,Kirill Reznik,MDL000345,Kirill,,39,039,39,md,101241,Democrat,kirill.reznik@house.state.md.us,MDL000345,MDL000578,MDL000345,TRUE,7ebe34b0b4174259b5c78be4b1c61acb,,http://mgaleg.maryland.gov/2015RS/images/reznik.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=reznik&stab=01,us,8/27/2010 22:54:00,state,,410-841-3039,"225 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 301-858-3126",,,DelegateReznik
+39.31946726,-76.64886085,40,88,Robinson,40,Baltimore City,"Robinson, Barbara",YEA,f,92541,Barbara A. Robinson,MDL000348,Barbara,A,40,040,40,md,66507,Democrat,barbara.robinson@house.state.md.us,MDL000348,MDL000579,MDL000348,TRUE,9a92ac2390dd47b7bb9676ffe672945e,,http://mgaleg.maryland.gov/2015RS/images/robinson.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=robinson&stab=01,us,8/27/2010 22:54:00,state,8533,410-841-3520,"412 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3199",,,
+39.28875259,-76.62979665,40,89,Conaway,40,Baltimore City,"Conaway, Frank M., Jr.",YEA,f,92238,Frank M. Conaway Jr.,MDL000264,Frank,M,40,040,40,md,68583,Democrat,frank.conaway@house.state.md.us,MDL000264,MDL000496,MDL000264,TRUE,30bb92e04ce84362a792a0ff8b48b732,,http://mgaleg.maryland.gov/2015RS/images/conaway.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=conaway&stab=01,us,8/27/2010 22:54:00,state,8842,410-841-3189,"314 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3079",Jr.,,
+39.26708966,-76.65898844,40,90,Hayes,40,Baltimore City,"Hayes, Antonio L.",YEA,f,,Antonio L. Hayes,MDL000632,Antonio L.,,40,040,40,md,,Democrat,Antonio.Hayes@house.state.md.us,MDL000632,MDL000715,MDL000632,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/hayes01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hayes01&stab=01,,1/14/2015 21:51:00,,,410-841-3545,"315 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,CFAntonioHayes
+39.35858507,-76.69290692,41,91,Carter,41,Baltimore City,"Carter, Jill P.",YEA,c,92225,Jill P. Carter,MDL000261,Jill,P,41,041,41,md,36107,Democrat,jill.carter@house.state.md.us,MDL000261,MDL000492,MDL000261,TRUE,8cbe45f14e2a484fb5efd485f741799d,,http://mgaleg.maryland.gov/2015RS/images/carter.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=carter&stab=01,us,8/27/2010 22:54:00,state,5274,410-841-3268,"416 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3251",,,jillpcarter
+39.3085857,-76.69217964,41,92,Oaks,41,Baltimore City,"Oaks, Nathaniel T.",YEA,c,92496,Nathaniel T. Oaks,MDL000338,Nathaniel,T,41,041,41,md,6205,Democrat,nathaniel.oaks@house.state.md.us,MDL000338,MDL000569,MDL000338,TRUE,4e7316e9b8184e29a4b97db8124eebd2,,http://mgaleg.maryland.gov/2015RS/images/oaks.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=oaks&stab=01,us,8/27/2010 22:54:00,state,1489,410-841-3283,"411 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3267",,,
+39.35817323,-76.65206934,41,93,Rosenberg,41,Baltimore City,"Rosenberg, Samuel I.",YEA,c,92546,Samuel I. Rosenberg,MDL000349,Samuel,I,41,041,41,md,6222,Democrat,samuel.rosenberg@house.state.md.us,MDL000349,MDL000581,MDL000349,TRUE,3b060b2fef3e41888975786bfcc918fa,,http://mgaleg.maryland.gov/2015RS/images/rosenberg.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=rosenberg&stab=01,us,8/27/2010 22:54:00,state,1496,410-841-3297,"365 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3179",,,delsandy
+39.39154715,-76.59828141,42A,133,Lafferty,42A,Baltimore,"Lafferty, Stephen W.",YEA,c,,Stephen W. Lafferty,MDL000679,Stephen W.,,42A,42A,42,md,,Democrat,stephen.lafferty@house.state.md.us,MDL000679,,MDL000679,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/lafferty.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=lafferty&stab=01,,1/14/2015 21:51:00,,,410-841-3487,"305 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3501",,,delsteve42
+39.63000168,-76.73389129,42B,134,Aumann,42B,Baltimore,"Aumann, Susan L. M.",NAY,c,,Susan L. M. Aumann,MDL000656,Susan L. M.,,42B,42B,42,md,,Republican,susan.aumann@house.state.md.us,MDL000656,,MDL000656,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/aumann.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=aumann&stab=01,,1/14/2015 21:51:00,,,410-841-3258,"303 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3163",,,Susanaumann
+39.54091434,-76.66813124,42B,135,West,42B,Baltimore,"West, Chris",NAY,c,,Chris West,MDL000666,Chris,,42B,42B,42,md,,Republican,Chris.West@house.state.md.us,MDL000666,,MDL000666,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/west01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=west01&stab=01,,1/14/2015 21:51:00,,,410-841-3793,"303 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.36385024,-76.57776955,43,94,Washington,43,Baltimore City,"Washington, Mary L.",YEA,f,,Mary L. Washington,MDL000415,Mary,L,43,043,43,md,68588,Democrat,ry.washington@house.state.md.us,MDL000415,MDL000606,MDL000415,TRUE,f3650ee7b6c041d69282cba937fe50a7,,http://mgaleg.maryland.gov/2015RS/images/washington.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=washington&stab=01,us,1/14/2011 22:24:00,state,,410-841-3476,"429 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3295 | 301-858-3295",,,DelMaryW
+39.32998065,-76.59911755,43,95,Anderson,43,Baltimore City,"Anderson, Curt",YEA,f,92153,Curt Anderson,MDL000238,Curtis,S,43,043,43,md,36285,Democrat,curt.anderson@house.state.md.us,MDL000238,MDL000472,MDL000238,TRUE,023a2051955146cba39964273b7a7bc6,Curt,http://mgaleg.maryland.gov/2015RS/images/anderson.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=anderson&stab=01,us,8/27/2010 22:54:00,state,5298,410-841-3291,"314 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3024",,,DelegateHaynes
+39.35165632,-76.60883621,43,96,McIntosh,43,Baltimore City,"McIntosh, Maggie",YEA,f,92455,Maggie D. McIntosh,MDL000327,Maggie,,43,043,43,md,6188,Democrat,ggie.mcintosh@house.state.md.us,MDL000327,MDL000556,MDL000327,TRUE,841e91eeb9e74a5bb3b99a5bef511237,,http://mgaleg.maryland.gov/2015RS/images/mcintosh.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mcintosh&stab=01,us,8/27/2010 22:54:00,state,1481,410-841-3407,"121 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3509",,,DelMaggie43
+39.27621786,-76.68800604,44A,136,Haynes,44A,Baltimore City,"Haynes, Keith E.",YEA,c,,Keith E. Haynes,MDL000669,Keith E.,,44A,44A,44,md,,Democrat,keith.haynes@house.state.md.us,MDL000669,,MDL000669,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/haynes.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=haynes&stab=01,,1/14/2015 21:51:00,,,410-841-3801,"424 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3530",,,DelegateHaynes
+39.29287684,-76.76455605,44B,137,Sydnor,44B,Baltimore,"Sydnor, Charles E., III",YEA,c,,Charles E. Sydnor III,MDL000652,Charles E,,44B,44B,44,md,,Democrat,Charles.Sydnor@house.state.md.us,MDL000652,,MDL000652,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/sydnor01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=sydnor01&stab=01,,1/14/2015 21:51:00,,,410-841-3802,"306 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",III,,CharlesSydnor3d
+39.31925491,-76.72779973,44B,138,Young,44B,Baltimore,"Young, Pat",YEA,c,,Pat D. Young,MDL000670,Pat,,44B,44B,44,md,,Democrat,pat.young@house.state.md.us,MDL000670,,MDL000670,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/young03.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=young03&stab=01,,1/14/2015 21:51:00,,,410-841-3544,"306 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
+39.30639317,-76.59150924,45,97,Glenn,45,Baltimore City,"Glenn, Cheryl D.",YEA,f,92317,Cheryl D. Glenn,MDL000282,Cheryl,D,45,045,45,md,66525,Democrat,cheryl.glenn@house.state.md.us,MDL000282,MDL000516,MDL000282,TRUE,64616b9d8edb437e94e0ee869c3d4ce3,,http://mgaleg.maryland.gov/2015RS/images/glenn.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=glenn&stab=01,us,8/27/2010 22:54:00,state,8536,410-841-3257,"413 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3019",,,
+39.35364105,-76.54307565,45,98,McCray,45,Baltimore City,"McCray, Cory V.",YEA,f,,Cory. V. McCray,MDL000640,Cory,,45,045,45,md,,Democrat,Cory.McCray@house.state.md.us,MDL000640,,MDL000640,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/mccray01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=mccray01&stab=01,,1/14/2015 21:51:00,,,410-841-3486,"315 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",V.,,electcorymccray
+39.31919795,-76.55343852,45,99,Branch,45,Baltimore City,"Branch, Talmadge",YEA,f,92196,Talmadge Branch,MDL000252,Talmadge,,45,045,45,md,6112,Democrat,dge.branch@house.state.md.us,MDL000252,MDL000484,MDL000252,TRUE,486b5f8f06b143398091d31075b92c7f,,http://mgaleg.maryland.gov/2015RS/images/branch.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=branch&stab=01,us,8/27/2010 22:54:00,state,1439,410-841-3398,"151 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3550",,,WhipTBranch
+39.2940813,-76.53900916,46,100,Clippinger,46,Baltimore City,"Clippinger, Luke",YEA,c,,Luke H. Clippinger,MDL000391,Luke,,46,046,46,md,126006,Democrat,uke.clippinger@house.state.md.us,MDL000391,MDL000420,MDL000391,TRUE,14a970c4b4204074ba3bc45d02de58fa,,http://mgaleg.maryland.gov/2015RS/images/clippinger.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=clippinger&stab=01,us,1/14/2011 22:24:00,state,,410-841-3303,"350 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3537",,MDL000494,lukeclippinger
+39.27114605,-76.61037371,46,101,Hammen,46,Baltimore City,"Hammen, Peter A.",YEA,c,92340,Peter A. Hammen,MDL000287,Peter,A,46,046,46,md,6155,Democrat,peter.hammen@house.state.md.us,MDL000287,MDL000521,MDL000287,TRUE,33be6a931de145d2a2675a9bc3361a16,,http://mgaleg.maryland.gov/2015RS/images/hammen.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=hammen&stab=01,us,8/27/2010 22:54:00,state,1462,410-841-3772,"241 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401
+ Fax: 410-841-3409",,,
+39.23330431,-76.59291359,46,102,Lierman,46,Baltimore City,"Lierman, Brooke E.",YEA,c,,Brooke E. Lierman,MDL000688,Brooke E.,,46,046,46,md,,Democrat,Brooke.Lierman@house.state.md.us,MDL000688,MDL000712,MDL000688,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/lierman01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=lierman01&stab=01,,1/14/2015 21:51:00,,,410-841-3319,"311 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,BELBaltimore
+38.92053174,-76.91683283,47A,139,Tarlau,47A,Prince George's,"Tarlau, Jimmy",YEA,f,,Jimmy D. Tarlau,MDL000661,Jimmy,,47A,47A,47,md,,Democrat,Jimmy.Tarlau@house.state.md.us,MDL000661,,MDL000661,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/tarlau01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=tarlau01&stab=01,,1/14/2015 21:51:00,,,410-841-3326,"209 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,JimmyTarlau
+38.94291457,-76.96267054,47A,140,Fennell,47A,Prince George's,"Fennell, Diana M.",YEA,f,,Diana M. Fennell,MDL000651,Diana M.,,47A,47A,47,md,,Democrat,Diana.Fennell@house.state.md.us,MDL000651,,MDL000651,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/fennell01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=fennell01&stab=01,,1/14/2015 21:51:00,,,410-841-3478,"209 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,DianaMFennell
+38.99413115,-76.98054921,47B,141,Campos,47B,Prince George's,"Campos, Will",YEA,c,,Will D. Campos,MDL000649,Will,,47B,47B,47,md,,Democrat,Will.Campos@house.state.md.us,MDL000649,,MDL000649,TRUE,,,http://mgaleg.maryland.gov/2015RS/images/campos01.jpg,http://mgaleg.maryland.gov/webmga/frmMain.aspx?pid=sponpage&tab=subject6&id=campos01&stab=01,,1/14/2015 21:51:00,,,410-841-3340,"206 House Office Building
+ 6 Bladen Street
+ Annapolis, MD 21401",,,
