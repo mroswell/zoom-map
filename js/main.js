@@ -10,7 +10,13 @@ var tooltip = d3.select("body")
 .style("text-shadow", "white 2px 2px")
 .style("opacity", "0.87")
 .style("background-color", "#F8F8F8")
-.style("line-height", "1.1")
+.style("line-height", "1.1");
+
+var zoom = d3.behavior.zoom()
+  .translate([0, 0])
+  .scale(1)
+  .scaleExtent([1, 8])
+  .on("zoom", zoomed);
 
 //Define map projection
 var projection = d3.geo.mercator()
@@ -28,6 +34,9 @@ var svg = d3.select("#map")
 .append("svg")
 .attr("width", w)
 .attr("height", h);
+
+
+var g = svg.append("g");
 
 var colors = d3.scale.category10();
 
@@ -97,5 +106,17 @@ d3.csv("HB980-vote-2014.csv", function (data) {
       .attr("d", path)
       .attr("fill", "none")
       .attr("stroke", "#bbb")
-
   });
+
+function zoomed() {
+  g.style("stroke-width", 1.5 / d3.event.scale + "px");
+  g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+}
+
+function zoomIn() {
+  currentScale = projection.scale();
+  newScale = currentScale * 2;
+  path.transition()
+    .duration(750)
+    .attr("transform", "translate(" + w / 2 + "," + h/2 +")scale(" + newScale +")");
+}

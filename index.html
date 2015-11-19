@@ -49,16 +49,14 @@
       <div id="map">
         <div class="leaflet-control-container">
           <div class="leaflet-top leaflet-left">
-            <div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#"
+            <div class="leaflet-control-zoom leaflet-bar leaflet-control"><a onclick="zoomIn()" class="leaflet-control-zoom-in" href="#"
                                                                              title="Zoom in">+</a><a
                 class="leaflet-control-zoom-out leaflet-disabled" href="#" title="Zoom out">-</a>
             </div>
           </div>
           <div class="leaflet-top leaflet-right">
-            <div class="leaflet-control-grid map-tooltip leaflet-control" style="display: none;"><a class="close"
-                                                                                                    href="#"
-                                                                                                    title="close">close</a>
-
+            <div class="leaflet-control-grid map-tooltip leaflet-control" style="display: none;">
+              <a class="close" href="#" title="close">close</a>
               <div class="map-tooltip-content"></div>
             </div>
           </div>
