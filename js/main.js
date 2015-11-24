@@ -12,11 +12,9 @@ var tooltip = d3.select("body")
 .style("background-color", "#F8F8F8")
 .style("line-height", "1.1");
 
-var zoom = d3.behavior.zoom()
-  .translate([0, 0])
-  .scale(1)
-  .scaleExtent([1, 8])
-  .on("zoom", zoomed);
+var scale0 = (w - 1) / 2 / Math.PI,
+    zoom = d3.behavior.zoom()
+      .on("zoom", zoomed);
 
 //Define map projection
 var projection = d3.geo.mercator()
@@ -30,11 +28,11 @@ var path = d3.geo.path()
 //Create SVG
 var svg = d3.select("#map")
 .append("svg")
+.attr("id", "map-svg")
 .attr("width", w)
 .attr("height", h);
 
-
-var g = svg.append("g");
+svg.call(zoom);
 
 var colors = d3.scale.category10();
 
@@ -45,9 +43,11 @@ d3.csv("HB980-vote-2014.csv", function (data) {
     var b = path.bounds(json),
       s = .9 / Math.max((b[1][0] - b[0][0]) / w, (b[1][1] - b[0][1]) / h),
       t = [(w - s * (b[1][0] + b[0][0])) / 2, (h/20 - s * b[0][1])];
-    projection
-      .scale(s)
+    projection.scale(s)
       .translate(t);
+    zoom.translate(t)
+      .scale(s)
+      .scaleExtent([s, 8 * s]);
 
     //Bind data and create one path per GeoJSON feature
     svg.selectAll("path")
@@ -113,14 +113,48 @@ d3.csv("HB980-vote-2014.csv", function (data) {
 });
 
 function zoomed() {
-  g.style("stroke-width", 1.5 / d3.event.scale + "px");
-  g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+  projection.translate(zoom.translate())
+      .scale(zoom.scale());
+
+  svg.selectAll("path")
+      .attr("d", path);
+  svg.selectAll("circle")
+      .attr("cx", function (d) {
+        return projection([d.longitude, d.latitude])[0];
+      })
+      .attr("cy", function (d) {
+        return projection([d.longitude, d.latitude])[1];
+      });
+}
+
+function mkZoomEvent(shift) {
+  var el = document.getElementById("map"),
+      bbox = el.getBoundingClientRect();
+  var evt = document.createEvent("MouseEvents");
+  evt.initMouseEvent(
+    'dblclick', // in DOMString typeArg,
+     true,  // in boolean canBubbleArg,
+     true,  // in boolean cancelableArg,
+     window,// in views::AbstractView viewArg,
+     120,   // in long detailArg,
+     bbox.left + w/2,     // in long screenXArg,
+     bbox.top + h/2,     // in long screenYArg,
+     bbox.left + w/2,     // in long clientXArg,
+     bbox.top + h/2,     // in long clientYArg,
+     0,     // in boolean ctrlKeyArg,
+     0,     // in boolean altKeyArg,
+     shift ? 1 : 0,     // in boolean shiftKeyArg,
+     0,     // in boolean metaKeyArg,
+     0,     // in unsigned short buttonArg,
+     null   // in EventTarget relatedTargetArg
+  );
+  document.getElementById("map-svg").dispatchEvent(evt);
 }
 
 function zoomIn() {
-  currentScale = projection.scale();
-  newScale = currentScale * 2;
-  path.transition()
-    .duration(750)
-    .attr("transform", "translate(" + w / 2 + "," + h/2 +")scale(" + newScale +")");
+  mkZoomEvent(false);
+}
+
+function zoomOut() {
+  mkZoomEvent(true);
 }
