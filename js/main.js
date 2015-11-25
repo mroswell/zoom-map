@@ -18,8 +18,12 @@ var scale0 = (w - 1) / 2 / Math.PI,
 
 //Define map projection
 var projection = d3.geo.mercator()
-.translate([0, 0])
-.scale(1);
+.center([-77.5, 38.4])
+.translate([ w / 2, h / 2 ])
+.scale([w * 11.5]);
+//var projection = d3.geo.mercator()
+//.translate([0, 0])
+//.scale(1);
 
 //Define path generator
 var path = d3.geo.path()
@@ -40,14 +44,15 @@ d3.csv("HB980-vote-2014.csv", function (data) {
 
   d3.json("md-house-boundary.json", function (json) {
     // Compute right scale and translation
-    var b = path.bounds(json),
-      s = .9 / Math.max((b[1][0] - b[0][0]) / w, (b[1][1] - b[0][1]) / h),
-      t = [(w - s * (b[1][0] + b[0][0])) / 2, (h/20 - s * b[0][1])];
-    projection.scale(s)
-      .translate(t);
-    zoom.translate(t)
-      .scale(s)
-      .scaleExtent([s, 8 * s]);
+    //var b = path.bounds(json),
+    //  s = .9 / Math.max((b[1][0] - b[0][0]) / w, (b[1][1] - b[0][1]) / h),
+    //  t = [(w - s * (b[1][0] + b[0][0])) / 2, (h/20 - s * b[0][1])];
+    //projection.scale(s)
+    //  .translate(t);
+    zoom.translate(projection.translate())
+      .scale(projection.scale())
+      .scaleExtent([projection.scale(), 3 * projection.scale()]);
+    d3.select(".leaflet-control-zoom-out").style("opacity", 0.3);
 
     //Bind data and create one path per GeoJSON feature
     svg.selectAll("path")
@@ -125,9 +130,20 @@ function zoomed() {
       .attr("cy", function (d) {
         return projection([d.longitude, d.latitude])[1];
       });
+  if(zoom.scale() >= zoom.scaleExtent()[1]) {
+      d3.select(".leaflet-control-zoom-in").style("opacity", 0.3);
+  } else {
+      d3.select(".leaflet-control-zoom-in").style("opacity", 0.75);
+  }
+  if(zoom.scale() <= zoom.scaleExtent()[0]) {
+      d3.select(".leaflet-control-zoom-out").style("opacity", 0.3);
+  } else {
+      d3.select(".leaflet-control-zoom-out").style("opacity", 0.75);
+  }
 }
 
 function mkZoomEvent(shift) {
+  var center = projection([ -76.84254829, 39.15053668 ]);
   var el = document.getElementById("map"),
       bbox = el.getBoundingClientRect();
   var evt = document.createEvent("MouseEvents");
@@ -137,10 +153,10 @@ function mkZoomEvent(shift) {
      true,  // in boolean cancelableArg,
      window,// in views::AbstractView viewArg,
      120,   // in long detailArg,
-     bbox.left + w/2,     // in long screenXArg,
-     bbox.top + h/2,     // in long screenYArg,
-     bbox.left + w/2,     // in long clientXArg,
-     bbox.top + h/2,     // in long clientYArg,
+     bbox.left + center[0],     // in long screenXArg,
+     bbox.top + center[1],     // in long screenYArg,
+     bbox.left + center[0],     // in long clientXArg,
+     bbox.top + center[1],     // in long clientYArg,
      0,     // in boolean ctrlKeyArg,
      0,     // in boolean altKeyArg,
      shift ? 1 : 0,     // in boolean shiftKeyArg,
