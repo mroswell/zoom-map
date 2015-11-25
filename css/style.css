@@ -1,3 +1,5 @@
+* {font-size: 16px;}
+
 body {
     /*background-color: lightgoldenrodyellow;*/
 }
@@ -23,4 +25,8 @@ p {
     height: 10px;
     border-radius: 50%;
     display: inline-block;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 38px;
 }

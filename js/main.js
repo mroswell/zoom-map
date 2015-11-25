@@ -51,7 +51,7 @@ d3.csv("HB980-vote-2014.csv", function (data) {
     //  .translate(t);
     zoom.translate(projection.translate())
       .scale(projection.scale())
-      .scaleExtent([projection.scale(), 3 * projection.scale()]);
+      .scaleExtent([projection.scale(), 4 * projection.scale()]);
     d3.select(".leaflet-control-zoom-out").style("opacity", 0.3);
 
     //Bind data and create one path per GeoJSON feature
@@ -130,12 +130,13 @@ function zoomed() {
       .attr("cy", function (d) {
         return projection([d.longitude, d.latitude])[1];
       });
+
   if(zoom.scale() >= zoom.scaleExtent()[1]) {
       d3.select(".leaflet-control-zoom-in").style("opacity", 0.3);
   } else {
       d3.select(".leaflet-control-zoom-in").style("opacity", 0.75);
   }
-  if(zoom.scale() <= zoom.scaleExtent()[0]) {
+  if(zoom.scale()-1 <= zoom.scaleExtent()[0]) {
       d3.select(".leaflet-control-zoom-out").style("opacity", 0.3);
   } else {
       d3.select(".leaflet-control-zoom-out").style("opacity", 0.75);
@@ -143,7 +144,7 @@ function zoomed() {
 }
 
 function mkZoomEvent(shift) {
-  var center = projection([ -76.84254829, 39.15053668 ]);
+  var center = projection([ -76.1, 39.5]);
   var el = document.getElementById("map"),
       bbox = el.getBoundingClientRect();
   var evt = document.createEvent("MouseEvents");
