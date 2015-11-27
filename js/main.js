@@ -18,7 +18,7 @@ var scale0 = (w - 1) / 2 / Math.PI,
 
 //Define map projection
 var projection = d3.geo.mercator()
-.center([-77.3, 38.4])
+.center([-77.2, 38.4])
 .translate([ w / 2, h / 2 ])
 .scale([w * 11.5]);
 //var projection = d3.geo.mercator()
